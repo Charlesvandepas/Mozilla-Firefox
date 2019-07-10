@@ -1,0 +1,8 @@
+Het aanpassen van een tabblad achtergrond in Firefox. 
+1. Open Firefox en voer de volgende url in about:profiles
+2. open de hoofdmap 
+3. maak een nieuwe map aan die heet Chrome 
+4. Zet in de Chrome map userContent.css 
+5. Pas het bestand aan wat je wilt 
+6. sla het op en vervolgens sluit Firefox. 
+7. Open firefox voor aangepaste resultaat

@@ -1,0 +1,53 @@
+@-moz-document url("about:newtab"), url("about:home") {
+    body {
+        padding-top:1%;
+        background-color: #000 !important;
+        color: #fff !important;
+    }
+    main a {
+     color: #000 !important;
+    }
+   .context-menu{
+        color:#000 !important;
+    }
+    .search-wrapper {
+        color: #000 !important;
+   
+    }
+   .collapsible-section{
+    border-top: 2px solid #fff !important;
+   }
+   .sections-list {
+    border-top: 2px solid #fff ;
+   }
+   .sections-list a {
+        color: #000 !important;
+   
+    }
+    .context-menu-button  {
+     color: #000 !important;
+    }
+    main {
+        width: 100% !important;
+    }
+   .top-site-inner a{
+     color: #000 !important;
+   }
+   .top-site-inner span{
+    color: #fff !important;
+    font-weight: bold
+   }
+   }
+   @-moz-document url("about:config") {
+    body { 
+        background-color: #000 !important;
+        color: #fff !important;
+    }
+   }
+   @document url(localhost) {
+       body {
+           'background-color: #000;
+       }
+   }
+            
+   
